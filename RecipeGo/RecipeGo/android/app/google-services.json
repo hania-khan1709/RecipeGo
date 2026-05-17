@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "11301027606",
+    "firebase_url": "https://mclab-42afd-default-rtdb.firebaseio.com",
+    "project_id": "mclab-42afd",
+    "storage_bucket": "mclab-42afd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11301027606:android:e051e236998be0f97a9a37",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn06mL0hYnIzUeBRBhnD_-ReN6XPJCsYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
